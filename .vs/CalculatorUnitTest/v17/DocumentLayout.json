@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\rafim\\Documents\\Semester4\\SoftwareQualityAssurance\\CalculatorUnitTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD976937-30B7-4104-A8B3-C29B15654BD8}|CalculatorUnitTest\\CalculatorUnitTest.csproj|c:\\users\\rafim\\documents\\semester4\\softwarequalityassurance\\calculatorunittest\\calculatorunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD976937-30B7-4104-A8B3-C29B15654BD8}|CalculatorUnitTest\\CalculatorUnitTest.csproj|solutionrelative:calculatorunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD976937-30B7-4104-A8B3-C29B15654BD8}|CalculatorUnitTest\\CalculatorUnitTest.csproj|c:\\users\\rafim\\documents\\semester4\\softwarequalityassurance\\calculatorunittest\\calculatorunittest\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD976937-30B7-4104-A8B3-C29B15654BD8}|CalculatorUnitTest\\CalculatorUnitTest.csproj|solutionrelative:calculatorunittest\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19E53566-8F5B-49ED-B31A-E21C8443857D}|Solution Items{19E53566-8F5B-49ED-B31A-E21C8443857D}|C:\\Users\\rafim\\Documents\\Semester4\\SoftwareQualityAssurance\\CalculatorUnitTest\\Calcuator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19E53566-8F5B-49ED-B31A-E21C8443857D}|Solution Items{19E53566-8F5B-49ED-B31A-E21C8443857D}|solutionrelative:Calcuator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD976937-30B7-4104-A8B3-C29B15654BD8}|CalculatorUnitTest\\CalculatorUnitTest.csproj|c:\\users\\rafim\\documents\\semester4\\softwarequalityassurance\\calculatorunittest\\calculatorunittest\\calcuator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD976937-30B7-4104-A8B3-C29B15654BD8}|CalculatorUnitTest\\CalculatorUnitTest.csproj|solutionrelative:calculatorunittest\\calcuator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,6 +20,19 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calcuator.cs",
+              "DocumentMoniker": "C:\\Users\\rafim\\Documents\\Semester4\\SoftwareQualityAssurance\\CalculatorUnitTest\\CalculatorUnitTest\\Calcuator.cs",
+              "RelativeDocumentMoniker": "CalculatorUnitTest\\Calcuator.cs",
+              "ToolTip": "C:\\Users\\rafim\\Documents\\Semester4\\SoftwareQualityAssurance\\CalculatorUnitTest\\CalculatorUnitTest\\Calcuator.cs",
+              "RelativeToolTip": "CalculatorUnitTest\\Calcuator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:33:16.231Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -42,26 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Calcuator.cs",
-              "DocumentMoniker": "C:\\Users\\rafim\\Documents\\Semester4\\SoftwareQualityAssurance\\CalculatorUnitTest\\Calcuator.cs",
-              "RelativeDocumentMoniker": "Calcuator.cs",
-              "ToolTip": "C:\\Users\\rafim\\Documents\\Semester4\\SoftwareQualityAssurance\\CalculatorUnitTest\\Calcuator.cs",
-              "RelativeToolTip": "Calcuator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T18:23:07.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\rafim\\Documents\\Semester4\\SoftwareQualityAssurance\\CalculatorUnitTest\\CalculatorUnitTest\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "CalculatorUnitTest\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\rafim\\Documents\\Semester4\\SoftwareQualityAssurance\\CalculatorUnitTest\\CalculatorUnitTest\\UnitTest1.cs",
-              "RelativeToolTip": "CalculatorUnitTest\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\rafim\\Documents\\Semester4\\SoftwareQualityAssurance\\CalculatorUnitTest\\CalculatorUnitTest\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "CalculatorUnitTest\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\rafim\\Documents\\Semester4\\SoftwareQualityAssurance\\CalculatorUnitTest\\CalculatorUnitTest\\CalculatorTests.cs",
+              "RelativeToolTip": "CalculatorUnitTest\\CalculatorTests.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAwFUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T18:22:37.054Z",
               "EditorCaption": ""
